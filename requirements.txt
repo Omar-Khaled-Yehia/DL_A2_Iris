@@ -1,0 +1,5 @@
+torch: For building and training the neural network model.
+pandas: To load and manipulate the dataset.
+scikit-learn: For splitting the dataset and calculating evaluation metrics.
+matplotlib: For plotting the training loss and ROC curves.
+seaborn: For visualizing confusion matrices.
